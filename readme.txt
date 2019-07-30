@@ -1,0 +1,1 @@
+THis is a simple Neural network which retrun second digit of a 4 digit number
